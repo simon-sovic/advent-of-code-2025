@@ -15,7 +15,7 @@ for line in lines:
     count += extra_rotations
     val -= extra_rotations * 100
 
-    sign *= { 'L': -1, 'R': 1 }[line[0]]
+    sign = { 'L': -1, 'R': 1 }[line[0]]
 
     ppos = 100 if sign < 0 and pos == 0 else pos
     pos += val * sign
