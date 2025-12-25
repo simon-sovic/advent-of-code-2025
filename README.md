@@ -11,4 +11,5 @@ These are my solutions for [Advent of Code 2025](https://adventofcode.com/2025) 
 | Day 6 | [problem description](https://adventofcode.com/2025/day/6) | [solution (part 1)](/6/6.1.py) | [solution (part 2)](/6/6.2.py) |
 | Day 7 | [problem description](https://adventofcode.com/2025/day/7) | [solution (part 1)](/7/7.1.py) | [solution (part 2)](/7/7.2.py) |
 | Day 8 | [problem description](https://adventofcode.com/2025/day/8) | [solution (part 1)](/8/8.1.py) | [solution (part 2)](/8/8.2.py) |
+| Day 9 | [problem description](https://adventofcode.com/2025/day/9) | [solution (part 1)](/9/9.1.py) | <!--[solution (part 2)](/9/9.2.py)--> |
 |  |  |  |  |
